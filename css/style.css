@@ -134,8 +134,45 @@ h1, h2, h3, h4, h5, h6, p {
     background-repeat: no-repeat;
     background-size: cover;}
 
+.fs-img-131 {
+    background-image: url("../img/Whitet-shirtslidingPixabay.jpg"); 
+    /* Full height */
+    height: 100%;
 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
 
+.fs-img-132 {
+    background-image: url("../img/PlayerslidingPixabay.jpg"); 
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.fs-img-133 {
+    background-image: url("../img/bench-hands-field-park-48151Pixabay.jpg"); 
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.fs-img-134 {
+    background-image: url("../img/TimGouw.BaseballStadiumImage.jpg"); 
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
 
 
 .black-shadow {
@@ -157,7 +194,3 @@ h1, h2, h3, h4, h5, h6, p {
     height: 50%;
 }
 
-.pictures {
-    height: 390px;
-    width: 1100px;
-}
